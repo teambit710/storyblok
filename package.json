@@ -1,0 +1,22 @@
+{
+  "name": "eds_portfoio",
+  "version": "1.0.0",
+  "description": "Ed&#39;s Portfolio 2020",
+  "author": "Ed Estrella",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {
+    "@nuxtjs/tailwindcss": "^1.0.0",
+    "css-loader": "^3.5.3",
+    "node-sass": "^4.14.1",
+    "sass-loader": "^8.0.2"
+  }
+}
